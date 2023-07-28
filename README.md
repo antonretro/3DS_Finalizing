@@ -9,7 +9,6 @@ Welcome to the Homebrew 3DS Finalize Folder! This repository contains a collecti
 - Checkpoint.cia
 - FBI.cia
 - ftpd.cia
-- GM9Megascript.gm9
 - Homebrew_Launcher.cia
 - Universal-Updater.cia
 
@@ -19,13 +18,15 @@ Welcome to the Homebrew 3DS Finalize Folder! This repository contains a collecti
 
 1. Download the latest version of the Homebrew Finalize Folder.
 2. Extract the files into the root of your 3DS SD card.
-3. Boot into Custom Firmware (CFW).
-4. Launch the Homebrew Launcher.
-5. Enjoy the extra applications and optimizations.
+3. Boot into godmode9).
+4. Open the action menu.
+5. Go to Finalize.
+6. Done!
 
 ## Note
 
 The files included in this repository are for legitimate purposes only, and we do not condone any illegal use or distribution of copyrighted content.
+GM9Megascript.gm9 file included.
 
 ## License
 
