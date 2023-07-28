@@ -18,7 +18,7 @@ Welcome to the Homebrew 3DS Finalize Folder! This repository contains a collecti
 
 1. Download the latest version of the Homebrew Finalize Folder.
 2. Extract the files into the root of your 3DS SD card.
-3. Boot into godmode9).
+3. Boot into godmode9.
 4. Open the action menu.
 5. Go to Finalize.
 6. Done!
